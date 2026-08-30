@@ -1,5 +1,26 @@
 # Batch-Data-Pipelines
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2. Apache Airflow
    
 Apache Airflow is a tool used to automate, schedule, and monitor batch data workflows. It helps organize ETL tasks by making sure they are performed in the correct order. For example, it can schedule a process to extract data, run a transformation, and then load the results into a database.
